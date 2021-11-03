@@ -2,6 +2,8 @@
 
 [Affinity Designer](https://affinity.serif.com/designer/) template for custom, pixel-perfect Windows 11 folder icons.
 
+![Preview](https://github.com/Nico0302/windows-11-folder-icons/blob/main/art/preview.png?raw=true)
+
 # 🪛 Requirements
 
 - [Affinity Designer](https://affinity.serif.com/designer/)
